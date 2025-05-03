@@ -1,4 +1,4 @@
-### 👨🏻‍💻 **Desenvolvedor Web Front-end | HTML | CSS | JavaScript|**  
+### 👨🏻‍💻 **Desenvolvedor Web Front-end | HTML | CSS | JavaScript**  
 
 Me chamo Nikolas Fernandes, tenho 17 anos e sou desenvolvedor junior
 
