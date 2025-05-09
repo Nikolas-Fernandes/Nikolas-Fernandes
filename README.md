@@ -1,17 +1,31 @@
+# 👨🏻‍💻 Nikolas Fernandes
+
 ### 👨🏻‍💻 **Desenvolvedor Web Front-end | HTML | CSS | JavaScript**  
 
-Me chamo Nikolas Fernandes, tenho 17 anos e sou desenvolvedor junior
+Me chamo **Nikolas Fernandes**, tenho 17 anos e sou desenvolvedor Front-end júnior com foco em construir interfaces modernas, funcionais e bem estruturadas.
 
-Sou movido por curiosidade e paixão por tecnologia. Estou sempre buscando aprender mais a cada dia, estudando novas ferramentas, linguagens e boas práticas de desenvolvimento para me tornar um profissional cada vez mais completo.
+Sou movido por curiosidade e paixão por tecnologia. Estou constantemente estudando novas ferramentas, linguagens e boas práticas para evoluir como profissional e criar soluções que geram impacto real.
 
-Além do código, sou movido por propósito acredito no poder da tecnologia para causar impacto positivo. o que molda meu estilo de vida com disciplina, foco e resiliência. 
+Acredito que a tecnologia é uma ferramenta poderosa de transformação — por isso, mantenho disciplina, foco e resiliência como pilares do meu crescimento pessoal e profissional.
 
-### Stacks
+---
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=database&logoColor=white) <br> 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🚀 Stacks e Tecnologias
+
+- **Front-end**: HTML, CSS, JavaScript, React, Next.js  
+
+---
+
+### 📌 Projetos em destaque
+
+- [**Pedido Sim Ou Não**](https://github.com/Nikolas-Fernandes/pedido-sim-ou-nao) – Este é um projeto leve e divertido de pedido de namoro interativo
+<!-- - [**Nome do Projeto 2**](link-do-projeto) – Breve descrição do projeto
+- [**Nome do Projeto 3**](link-do-projeto) – Breve descrição do projeto -->
+---
+
+### 🌐 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/nikolas-fernandes)
+<!-- - [Portfólio](https://seuportfólio.com) -->
+- [GitHub](https://github.com/Nikolas-Fernandes)
+
