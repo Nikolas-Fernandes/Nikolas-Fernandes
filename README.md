@@ -23,7 +23,7 @@ Acredito que a tecnologia é uma ferramenta poderosa de transformação — por 
 
 ### 🌐 Onde me encontrar
 
+- [Portfólio](https://portfolionikolas.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/nikolas-fernandes)
-<!-- - [Portfólio](https://seuportfólio.com) -->
 - [GitHub](https://github.com/Nikolas-Fernandes)
 
